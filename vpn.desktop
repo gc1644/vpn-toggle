@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Toggle VPN
+Name=vpn-toggle
 Exec=/bin/vpn-toggle.sh
 Terminal=true
 Type=Application
